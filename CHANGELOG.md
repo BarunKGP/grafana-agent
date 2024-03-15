@@ -269,6 +269,8 @@ v0.39.0 (2024-01-09)
 
 ### Enhancements
 
+- Added a new `otelcol.exporter.debug` component based on OTel Collector's "debug" exporter`. (@BarunKGP)
+
 - Flow Windows service: Support environment variables. (@jkroepke)
 
 - Allow disabling collection of root Cgroup stats in
